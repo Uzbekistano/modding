@@ -1,0 +1,33 @@
+
+state={
+	id=4
+	name="STATE_4"
+
+        history={
+                victory_points = {
+			6834 20
+		}
+                victory_points = {
+			2350 5
+		}
+                victory_points = {
+			12348 15
+		}
+                victory_points = {
+			3225 30
+		}
+                owner = COA
+                buildings = {
+			 infrastructure = 7
+
+                }
+
+	}
+
+	provinces={
+		2350 2928 3225 5131 5333 6260 6834 7430 7615 12276 12298 12319 12327 12330 12348 
+	}
+	manpower=9000000
+	buildings_max_level_factor=1.000
+        state_category=megalopolis
+}

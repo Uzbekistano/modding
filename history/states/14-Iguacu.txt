@@ -1,0 +1,24 @@
+
+state={
+	id=14
+	name="STATE_14"
+
+        history={
+		victory_points = {
+			1732 8 
+		}
+                owner = SIG
+		buildings = {
+			infrastructure = 7
+
+		}
+
+	}
+
+	provinces={
+		182 435 1369 1496 1732 2536 4289 5543 7030 8189 12377 12397 12407 12416 12428 12456 12477 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+        state_category=town
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=7
+	name="STATE_7"
+        
+        history={
+                victory_points = {
+			12072 5
+		}               
+                victory_points = {
+			5272 8
+		}
+                victory_points = {
+			5638 2
+		}
+                owner = ANC
+                buildings = {
+                         infrastructure = 6
+
+                 }
+
+	}    
+
+	provinces={
+		79 1095 1526 2080 2181 2424 3638 3681 5054 5272 5354 5578 5638 5745 6032 6237 6374 6671 6787 6966 12010 12033 12047 12051 12072 12078 12090 12097 12103 12116 12159 12171 12172 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+        state_category=town
+}

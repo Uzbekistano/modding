@@ -1,0 +1,27 @@
+
+state={
+	id=13
+	name="STATE_13"
+
+        history={
+		victory_points = {
+			12434 5 
+		}
+                victory_points = {
+			12402 2 
+		}
+                owner = NHU
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		205 1108 4628 6522 6686 7031 8724 12384 12402 12414 12432 12434 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+        state_category=town
+}

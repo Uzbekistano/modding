@@ -1,0 +1,33 @@
+
+state={
+	id=9
+	name="STATE_9"
+
+        history={
+		victory_points = {
+			4627 12 
+		}
+		victory_points = {
+			12352 5 
+		}
+		victory_points = {
+			12312 2 
+		}
+		victory_points = {
+			12339 7 
+		}
+		owner = SPD
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		973 1205 1241 2147 2309 3959 4399 4481 4627 4904 5125 5801 7132 7632 12262 12272 12288 12302 12312 12315 12317 12334 12336 12339 12344 12352 12359 12361 12366 12371 12387 12391 12393 12403 
+	}
+	manpower=8000000
+	buildings_max_level_factor=1.000
+        state_category=megalopolis
+}

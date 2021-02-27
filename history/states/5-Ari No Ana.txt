@@ -1,0 +1,30 @@
+
+state={
+	id=5
+	name="STATE_5"
+
+	history={
+		victory_points = {
+			12098 20 
+		}
+		victory_points = {
+			2932 30 
+		}
+		victory_points = {
+			11992 10 
+		}
+		owner = JPB
+		buildings = {
+			infrastructure = 5
+
+		}
+
+	}
+
+	provinces={
+		483 499 1049 1298 1664 2815 2901 2932 3782 3944 4056 4630 4665 4834 5390 5405 6139 6683 6772 6829 6912 7267 7439 7904 7906 8222 11962 11981 11991 11992 11999 12007 12013 12024 12030 12035 12052 12059 12061 12068 12098 12114 12138 15833 15835 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

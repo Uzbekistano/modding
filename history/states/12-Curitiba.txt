@@ -1,0 +1,23 @@
+state={
+	id=12
+	name="STATE_12"
+   
+        history={
+		victory_points = {
+			12447 10 
+		}
+                owner = CUR
+		buildings = {
+			infrastructure = 8
+
+		}
+
+	}
+
+	provinces={
+		12447 
+	}
+	manpower=1500000
+	buildings_max_level_factor=1.000
+        state_category=megalopolis
+}

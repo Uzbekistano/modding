@@ -1,0 +1,24 @@
+
+state={
+	id=6
+	name="STATE_6"
+
+	history={
+		victory_points = {
+			12188 5 
+		}
+		owner = SSI
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		3853 7466 12149 12164 12188 15840 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

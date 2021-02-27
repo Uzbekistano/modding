@@ -1,0 +1,33 @@
+
+state={
+	id=8
+	name="STATE_8"
+
+	history={
+		victory_points = {
+			7855 8 
+		}
+		victory_points = {
+			2092 5 
+		}
+		victory_points = {
+			7775 2 
+		}
+		victory_points = {
+			8736 10 
+		}
+		owner = TSK
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		1667 2092 2297 2372 2472 2704 3201 3995 4245 4427 4498 4527 5903 6214 6234 6807 7241 7533 7558 7751 7775 7855 8736 12086 12104 12111 12139 12143 12147 12151 12173 12176 12183 12205 12221 12235 12239 12249 12256 12257 12265 12279 15836 15838 15842 15843 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}
