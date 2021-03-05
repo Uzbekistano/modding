@@ -1,4 +1,4 @@
-name="South"
+name="modding"
 version="1.0"
 tags={
 	"Alternative History"
